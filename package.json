@@ -12,9 +12,7 @@
     "sandbox",
     "codesandbox"
   ],
-  "author": "Benjamin Miles <talk@benjaminmiles.com> (https://github.com/benjaminmiles)",
-  "repository": "github:benjaminmiles/react-three-vite",
-  "license": "MIT",
+  "author": "Brennan Tibbetts",
   "dependencies": {
     "@react-three/drei": "^9.120.3",
     "@react-three/fiber": "^8.17.10",
